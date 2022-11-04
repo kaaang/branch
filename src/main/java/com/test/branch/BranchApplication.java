@@ -10,6 +10,8 @@ public class BranchApplication {
         SpringApplication.run(BranchApplication.class, args);
         System.out.println("1");
         System.out.println("move");
+        System.out.println("move1");
+        System.out.println("move2");
     }
 
 }
